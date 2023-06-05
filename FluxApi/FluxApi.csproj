@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>FluxApi</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.57.0.2756" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="13.0.5" />
+
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="Stripe.net" Version="39.84.0" />
+    <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="5.0.1" />
+    <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="5.0.1" />
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuthCore\AuthCore.csproj" />
+    <ProjectReference Include="..\Flux.Data\Flux.Data.csproj" />
+    <ProjectReference Include="..\FluxFileManagerCore\FluxFileManagerCore.csproj" />
+    <ProjectReference Include="..\GamesCore\GamesCore.csproj" />
+    <ProjectReference Include="..\PaymentApi\PaymentApi.csproj" />
+    <ProjectReference Include="..\PlayersCore\PlayersCore.csproj" />
+    <ProjectReference Include="..\TeamsCore\TeamsCore.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Configuration\" />
+  </ItemGroup>
+
+
+</Project>

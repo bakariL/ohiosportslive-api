@@ -1,0 +1,36 @@
+﻿@page
+
+@model ListModel
+@{
+    ViewData["Name"] = "List of data";
+}
+
+
+<h2>Events</h2>
+<hr />
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input placeholder="...start typing search" type="search" class="form-control" asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class="btn btn-default">
+                    <i class="glyphyicon glyphyicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+
+@foreach (var fluxEvent in Model.EventDatas)
+{
+    <partial name="_Summary" model="fluxEvent" />
+}
+<a asp-page="./Edit" class="btn btn-primary">Create New</a>
+
+
+
+@*@section footer {
+    <div>@Model.Message</div>
+}*@

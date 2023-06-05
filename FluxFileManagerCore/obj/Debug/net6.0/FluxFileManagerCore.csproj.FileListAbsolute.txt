@@ -1,0 +1,12 @@
+D:\Flux\app\web\FluxFileManagerCore\bin\Debug\net6.0\FluxFileManagerCore.deps.json
+D:\Flux\app\web\FluxFileManagerCore\bin\Debug\net6.0\FluxFileManagerCore.dll
+D:\Flux\app\web\FluxFileManagerCore\bin\Debug\net6.0\FluxFileManagerCore.pdb
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\FluxFileManagerCore.csproj.AssemblyReference.cache
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\FluxFileManagerCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\FluxFileManagerCore.AssemblyInfoInputs.cache
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\FluxFileManagerCore.AssemblyInfo.cs
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\FluxFileManagerCore.csproj.CoreCompileInputs.cache
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\FluxFileManagerCore.dll
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\refint\FluxFileManagerCore.dll
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\FluxFileManagerCore.pdb
+D:\Flux\app\web\FluxFileManagerCore\obj\Debug\net6.0\ref\FluxFileManagerCore.dll

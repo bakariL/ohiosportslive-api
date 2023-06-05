@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GamesCore/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/GamesCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GamesCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GamesCore/1.0.0": {
+      "type": "project",
+      "path": "../GamesCore/GamesCore.csproj",
+      "msbuildProject": "../GamesCore/GamesCore.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GamesCore >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bakari\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Flux\\app\\web\\FluxLiveSql\\FluxLiveSql.csproj",
+      "projectName": "FluxLiveSql",
+      "projectPath": "D:\\Flux\\app\\web\\FluxLiveSql\\FluxLiveSql.csproj",
+      "packagesPath": "C:\\Users\\bakari\\.nuget\\packages\\",
+      "outputPath": "D:\\Flux\\app\\web\\FluxLiveSql\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bakari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Flux\\app\\web\\GamesCore\\GamesCore.csproj": {
+              "projectPath": "D:\\Flux\\app\\web\\GamesCore\\GamesCore.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

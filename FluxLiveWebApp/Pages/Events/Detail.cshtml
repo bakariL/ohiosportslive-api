@@ -1,0 +1,18 @@
+﻿@page
+@model FluxLiveWebApp.Pages.Events.DetailModel
+@{
+}
+
+<h2>   @Model.FluxEvent.Name </h2>
+
+<div>
+    ID: @Model.FluxEvent.EventId
+</div>
+
+<div>
+    Description: @Model.FluxEvent.Description
+</div>
+
+<a asp-page="./List" class="btn btn-default">All Events</a>
+
+

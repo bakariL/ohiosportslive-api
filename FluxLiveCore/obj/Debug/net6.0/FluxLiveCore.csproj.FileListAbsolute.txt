@@ -1,0 +1,12 @@
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\FluxLiveCore.csproj.AssemblyReference.cache
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\FluxLiveCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\FluxLiveCore.AssemblyInfoInputs.cache
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\FluxLiveCore.AssemblyInfo.cs
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\FluxLiveCore.csproj.CoreCompileInputs.cache
+D:\Flux\app\web\FluxLiveCore\bin\Debug\net6.0\FluxLiveCore.deps.json
+D:\Flux\app\web\FluxLiveCore\bin\Debug\net6.0\FluxLiveCore.dll
+D:\Flux\app\web\FluxLiveCore\bin\Debug\net6.0\FluxLiveCore.pdb
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\FluxLiveCore.dll
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\refint\FluxLiveCore.dll
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\FluxLiveCore.pdb
+D:\Flux\app\web\FluxLiveCore\obj\Debug\net6.0\ref\FluxLiveCore.dll

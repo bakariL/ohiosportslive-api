@@ -1,0 +1,29 @@
+﻿@using FluxLive.Core
+@model FluxEvent
+
+    <div class="card ">
+        <div class="card-header">
+            <h3>@Model.Name</h3>
+        </div>
+        <div class="card-body">
+            <span>Description: @Model.Description</span>
+        </div>
+        <div class="card-footer">
+            <a class="btn btn-lg"
+               asp-page="./Detail" asp-route-EventId="@Model.EventId">
+                <i class="glyphyicon glyphyicon-zoom-in"></i>
+                view
+            </a>
+            <a class="btn btn-lg"
+               asp-page="./Edit" asp-route-EventId="@Model.EventId">
+                <i class="glyphyicon glyphyicon-edit"></i>
+                edit
+            </a>
+            <a class="btn btn-lg"
+               asp-page="./Delete" asp-route-EventId="@Model.EventId">
+                <i class="glyphyicon glyphyicon-trash"></i>
+                delete
+            </a>
+        </div>
+
+    </div>

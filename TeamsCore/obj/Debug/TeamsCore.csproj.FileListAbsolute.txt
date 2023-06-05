@@ -1,0 +1,6 @@
+D:\Flux\app\web\TeamsCore\bin\Debug\TeamsCore.dll
+D:\Flux\app\web\TeamsCore\bin\Debug\TeamsCore.pdb
+D:\Flux\app\web\TeamsCore\obj\Debug\TeamsCore.csproj.AssemblyReference.cache
+D:\Flux\app\web\TeamsCore\obj\Debug\TeamsCore.csproj.CoreCompileInputs.cache
+D:\Flux\app\web\TeamsCore\obj\Debug\TeamsCore.dll
+D:\Flux\app\web\TeamsCore\obj\Debug\TeamsCore.pdb

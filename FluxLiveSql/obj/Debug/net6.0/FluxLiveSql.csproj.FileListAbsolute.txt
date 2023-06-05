@@ -1,0 +1,5 @@
+D:\Flux\app\web\FluxLiveSql\obj\Debug\net6.0\FluxLiveSql.csproj.AssemblyReference.cache
+D:\Flux\app\web\FluxLiveSql\obj\Debug\net6.0\FluxLiveSql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Flux\app\web\FluxLiveSql\obj\Debug\net6.0\FluxLiveSql.AssemblyInfoInputs.cache
+D:\Flux\app\web\FluxLiveSql\obj\Debug\net6.0\FluxLiveSql.AssemblyInfo.cs
+D:\Flux\app\web\FluxLiveSql\obj\Debug\net6.0\FluxLiveSql.csproj.CoreCompileInputs.cache

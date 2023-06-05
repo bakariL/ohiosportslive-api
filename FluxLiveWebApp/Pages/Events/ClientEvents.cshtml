@@ -1,0 +1,18 @@
+﻿@page
+@model FluxLiveWebApp.Pages.Events.ClientEventsModel
+@{
+}
+
+
+
+@section Scripts {
+    <script>
+        $(function () {
+            $.ajax("/api/events/",
+                { method: "get" })
+                .then(function (response) {
+                    console.dir(response)
+            }
+        );
+    </script>
+}

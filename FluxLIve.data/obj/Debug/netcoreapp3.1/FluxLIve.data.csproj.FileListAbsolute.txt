@@ -1,0 +1,16 @@
+D:\Flux\app\web\FluxLIve.data\bin\Debug\netcoreapp3.1\FluxLIve.data.deps.json
+D:\Flux\app\web\FluxLIve.data\bin\Debug\netcoreapp3.1\FluxLIve.data.dll
+D:\Flux\app\web\FluxLIve.data\bin\Debug\netcoreapp3.1\FluxLIve.data.pdb
+D:\Flux\app\web\FluxLIve.data\bin\Debug\netcoreapp3.1\FluxLive.Core.dll
+D:\Flux\app\web\FluxLIve.data\bin\Debug\netcoreapp3.1\FluxLive.Core.pdb
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.csproj.AssemblyReference.cache
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.AssemblyInfoInputs.cache
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.AssemblyInfo.cs
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.csproj.CoreCompileInputs.cache
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.csproj.CopyComplete
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.dll
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.pdb
+D:\Flux\app\web\FluxLIve.data\bin\Debug\netcoreapp3.1\FluxLIve.data.runtimeconfig.json
+D:\Flux\app\web\FluxLIve.data\bin\Debug\netcoreapp3.1\FluxLIve.data.runtimeconfig.dev.json
+D:\Flux\app\web\FluxLIve.data\obj\Debug\netcoreapp3.1\FluxLIve.data.genruntimeconfig.cache

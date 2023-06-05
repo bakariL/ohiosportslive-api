@@ -1,0 +1,35 @@
+﻿@page "{eventId:int?}"
+@model FluxLiveWebApp.Pages.Events.EditModel
+@{
+}
+
+
+<h2>   Editng @Model.FluxEvent.Name </h2>
+
+<form  method="post">
+
+    <input type="hidden" asp-for="FluxEvent.EventId" />
+    <div class="form-group">
+        <label asp-for="FluxEvent.Name"></label>
+        <input class="form-control" asp-for="FluxEvent.Name" />
+        <span class="text-danger" asp-validation-for="FluxEvent.Name">  </span>
+    </div>
+    <div class="form-group">
+        <label asp-for="FluxEvent.Description"></label>
+        <input class="form-control" asp-for="FluxEvent.Description" />
+    </div>
+    <div class="form-group">
+        <label asp-for="FluxEvent.EventTypes"></label>
+        <select class="form-control" 
+                 asp-for="FluxEvent.EventTypes"
+                asp-items="Model.EventItems">
+            <option value="value">text</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts{
+                <partial name="_ValidationScriptsPartial" />
+            }

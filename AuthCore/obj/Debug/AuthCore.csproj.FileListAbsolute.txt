@@ -1,0 +1,6 @@
+D:\Flux\app\web\AuthCore\bin\Debug\AuthCore.dll
+D:\Flux\app\web\AuthCore\bin\Debug\AuthCore.pdb
+D:\Flux\app\web\AuthCore\obj\Debug\AuthCore.csproj.AssemblyReference.cache
+D:\Flux\app\web\AuthCore\obj\Debug\AuthCore.csproj.CoreCompileInputs.cache
+D:\Flux\app\web\AuthCore\obj\Debug\AuthCore.dll
+D:\Flux\app\web\AuthCore\obj\Debug\AuthCore.pdb
